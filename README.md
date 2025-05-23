@@ -17,5 +17,7 @@ I'm passionate about turning raw datasets into clear, actionable insights using 
 💫Currently exploring: Machine Learning, Feature Engineering, and Real-time Dashboards
 
 🌱 I'm continuously learning and building projects that reflect my growth.
+
 📂 Repositories are organized by skill domain and real-world application.
+
 📬 Let’s connect: Feel free to explore my work or share ideas!
